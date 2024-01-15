@@ -1,6 +1,6 @@
 # Assignment0
 
-This read me and associated assignment are adapted from [Jeremey Manning's Psych 32 Assignment Hello, World!](github.com/ContextLab/psyc32-hello-world/) and from [NYUExperimentalPhysics1-2021/Assignment0
+This read me and associated assignment are adapted from [Jeremey Manning's Psych 32 Assignment Hello, World!](github.com/ContextLab/psyc32-hello-world/) and from [Marc Gershow's NYUExperimentalPhysics1-2021/Assignment0
 ](github.com/NYU-IEP-2022-2023-Assignments/Assignment0).
 
 This is a template repository for **Intro Experimental Physics II Assignment 0**. We will be using Google Colaboratory and Github Classroom to submit Python assignments in this course. The template for each assignment will provide a framework for you to work with.  Your job is to follow each assignment's instructions and fill in the missing pieces of code and/or text. In this assignment we will go through the steps of opening, editing, saving, and submitting your code.  
